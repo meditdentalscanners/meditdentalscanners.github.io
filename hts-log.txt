@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 28 Dec 2022 11:57:23 at https://www.medit.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.medit.com/ -O1 "D:\WEBSITE\MEDIT" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:57:57	Error: 	"Not Found" (404) at link https://www.medit.com/decodeURIComponent(e (from https://www.medit.com/)
+11:57:57	Error: 	"Not Found" (404) at link https://www.medit.com/feed.xml (from https://www.medit.com/)
+11:57:57	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.medit.com/)
+12:02:44	Error: 	"Not Found" (404) at link https://www.medit.com/press (from https://www.medit.com/press-corner)
+12:02:46	Error: 	"Not Found" (404) at link https://www.medit.com/de/decodeURIComponent(e (from https://www.medit.com/de/dental-clinic-i700wireless)
+12:02:46	Error: 	"Not Found" (404) at link https://www.medit.com/de/robots.txt (from https://www.medit.com/de/dental-clinic-i700wireless)
+12:02:46	Error: 	"Not Found" (404) at link https://www.medit.com/de/feed.xml (from https://www.medit.com/de/dental-clinic-i700wireless)
+12:02:46	Error: 	"Not Found" (404) at link https://www.medit.com/es/decodeURIComponent(e (from https://www.medit.com/es/dental-clinic-i700wireless)
+12:02:46	Error: 	"Not Found" (404) at link https://www.medit.com/es/robots.txt (from https://www.medit.com/es/dental-clinic-i700wireless)
+12:02:46	Error: 	"Not Found" (404) at link https://www.medit.com/es/feed.xml (from https://www.medit.com/es/dental-clinic-i700wireless)
+12:02:47	Error: 	"Not Found" (404) at link https://www.medit.com/fr/decodeURIComponent(e (from https://www.medit.com/fr/dental-clinic-i700wireless)
+12:02:47	Error: 	"Not Found" (404) at link https://www.medit.com/fr/robots.txt (from https://www.medit.com/fr/dental-clinic-i700wireless)
+12:02:47	Error: 	"Not Found" (404) at link https://www.medit.com/fr/feed.xml (from https://www.medit.com/fr/dental-clinic-i700wireless)
+12:02:48	Error: 	"Not Found" (404) at link https://www.medit.com/it/decodeURIComponent(e (from https://www.medit.com/it/dental-clinic-i700wireless)
+12:02:48	Error: 	"Not Found" (404) at link https://www.medit.com/it/robots.txt (from https://www.medit.com/it/dental-clinic-i700wireless)
+12:02:48	Error: 	"Not Found" (404) at link https://www.medit.com/it/feed.xml (from https://www.medit.com/it/dental-clinic-i700wireless)
+12:02:49	Error: 	"Not Found" (404) at link https://www.medit.com/ja/decodeURIComponent(e (from https://www.medit.com/ja/dental-clinic-i700wireless)
+12:02:49	Error: 	"Not Found" (404) at link https://www.medit.com/ja/robots.txt (from https://www.medit.com/ja/dental-clinic-i700wireless)
+12:02:49	Error: 	"Not Found" (404) at link https://www.medit.com/ja/feed.xml (from https://www.medit.com/ja/dental-clinic-i700wireless)
+12:02:50	Error: 	"Not Found" (404) at link https://www.medit.com/ko/decodeURIComponent(e (from https://www.medit.com/ko/dental-clinic-i700wireless)
+12:02:50	Error: 	"Not Found" (404) at link https://www.medit.com/ko/robots.txt (from https://www.medit.com/ko/dental-clinic-i700wireless)
+12:02:50	Error: 	"Not Found" (404) at link https://www.medit.com/ko/feed.xml (from https://www.medit.com/ko/dental-clinic-i700wireless)
+12:02:52	Error: 	"Not Found" (404) at link https://www.medit.com/ru/decodeURIComponent(e (from https://www.medit.com/ru/dental-clinic-i700wireless)
+12:02:52	Error: 	"Not Found" (404) at link https://www.medit.com/ru/robots.txt (from https://www.medit.com/ru/dental-clinic-i700wireless)
+12:02:52	Error: 	"Not Found" (404) at link https://www.medit.com/ru/feed.xml (from https://www.medit.com/ru/dental-clinic-i700wireless)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 30 seconds : 418 links scanned, 392 files written (131228816 bytes overall) [36932033 bytes received at 111915 bytes/sec], 140381631 bytes transferred using HTTP compression in 181 files, ratio 22%, 1.0 requests per connection
+(25 errors, 0 warnings, 0 messages)

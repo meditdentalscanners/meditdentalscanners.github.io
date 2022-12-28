@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.medit.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1672246644|Eo91P7NXeTMa
+www.medit.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.medit.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=some1_g
+
